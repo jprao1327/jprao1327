@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate webdeveloper developer from India</h3>
 
 - 📫 How to reach me **j.p.rao1327@gmail.com**
 
